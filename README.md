@@ -17,7 +17,7 @@ This is a solution to the [Chat app CSS illustration challenge on Frontend Mento
 
 ### Links
 
-- Solution URL: [Fronted Mentor](https://github.com/MoisalexWeb/chat-app-css)
+- Solution URL: [Fronted Mentor](https://www.frontendmentor.io/solutions/responsive-chat-app-css-using-flexbox-and-grid-9OW12BfwMt)
 - Live Site URL: [GitHub Pages](https://moisalexweb.github.io/chat-app-css/)
 
 ## My process
